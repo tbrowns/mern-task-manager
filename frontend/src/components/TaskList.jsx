@@ -11,7 +11,8 @@ const TaskList = () => {
   const [currentTask, setCurrentTask] = useState(null);
   const [statusFilter, setStatusFilter] = useState("all");
 
-  const apiUrl = "http://localhost:5000/api/tasks";
+  const apiUrl =
+    "https://mern-task-manager-backend-4yn3.onrender.com/api/tasks";
 
   // Fetch all tasks
   const fetchTasks = async () => {
