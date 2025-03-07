@@ -1,4 +1,4 @@
-[Live Demo](mern-task-manager-red.vercel.app)
+[Live Demo](https://mern-task-manager-red.vercel.app/)
 
 # Task Manager Application Documentation
 
